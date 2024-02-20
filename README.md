@@ -1,6 +1,8 @@
-<div align="center>
+<div align="center">
 <img src="./public/me.png">
 </div>
+
+<p></p>
 
 Hi, there! I am David Gayoso
 
