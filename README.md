@@ -1,3 +1,7 @@
+<div align="center>
+<img src="./public/me.png">
+</div>
+
 Hi, there! I am David Gayoso
 
 ## 🚀 About Me
